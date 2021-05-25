@@ -41,7 +41,7 @@
                       <input type="radio" name="moneda" id="bat" value="bat">
                     </div>
                     <div class="col">
-                      <label for="etheriu">Etherium</label>
+                      <label for="etherium">Etherium</label>
                       <input type="radio" name="moneda" id="etherium" value="etherium">
                       <br>
                       <label for="xrp">Xrp</label>
